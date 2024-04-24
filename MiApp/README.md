@@ -1,5 +1,13 @@
 # MiApp
+<<<<<<< HEAD
 # C. Rodrigo: He puesto el script de fontAwesome en el index.html para permitir usar los iconos de https://fontawesome.com/icons 
+=======
+# V. Tardon
+# C. Rodrigo
+# N. CAstellanos
+# P. Arnau
+# M. Cucarella
+>>>>>>> 39a5a51633a2123f755db01235021ed151669a99
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
