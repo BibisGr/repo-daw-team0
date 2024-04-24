@@ -1,7 +1,7 @@
 # MiApp
 # V. Tardon
 # C. Rodrigo
-# N. CAstellanos
+# N. CAstellanos N. Castellanos Se configuró Bootstrap correctamente y se probó desplegando el servidor.
 # P. Arnau
 # M. Cucarella
 
