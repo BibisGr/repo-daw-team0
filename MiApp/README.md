@@ -1,4 +1,5 @@
 # MiApp
+# Miguel Cucarella - cree una rama, y cree dos interfaces(persona, superhero) y una clase(trabajador).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
